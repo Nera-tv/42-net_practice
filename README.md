@@ -40,5 +40,3 @@ cd Tronc-Commun_42/net_practice
 
 - Network & system administration  
 - Rigor
-
-### [Go back](https://github.com/Neress-dono/common-core_42)
