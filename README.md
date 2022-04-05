@@ -32,8 +32,7 @@ you only needed a browser.
 **Cloning the repositories**
 
 ```shell
-git clone https://github.com/Neress-dono/Tronc-Commun_42.git 
-cd Tronc-Commun_42/net_practice
+git clone https://github.com/Nera-tv/net_practice.git net_practice
 ```
 
 ## Skills:
